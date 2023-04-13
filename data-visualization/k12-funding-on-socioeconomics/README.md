@@ -23,3 +23,7 @@ https://edopportunity.org/get-the-data/seda-archive-downloads/
 National Bureau of Economic Research (NBER) offers various datasets related to education and economics, including the School District Finance Database, which contains information on school district finances, enrollment, and staffing:
 <br />
 https://www.nber.org/research/data/school-district-databook-sddb
+
+Data.gov is a repository for U.S. government datasets. You can search for datasets related to education and socioeconomic factors by using relevant keywords:
+<br />
+https://catalog.data.gov/dataset?tags=education
