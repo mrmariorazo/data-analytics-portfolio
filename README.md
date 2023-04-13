@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# school-funding-on-socioeconomics
 
 ## Current peoject
 School Funding and Socioeconomic Factors
