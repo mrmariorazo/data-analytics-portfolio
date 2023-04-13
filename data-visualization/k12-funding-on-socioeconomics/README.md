@@ -3,7 +3,7 @@
 ## Project notes
 We're looking to investigate the relationship between school funding and the socioeconomic status in the United States. We'll examine factors such as tax revenue, median household income, and poverty rates.
 
-## Data Sets
+## Possible Data Sets
 The Elementary/Secondary Information System (ElSi) contains finance data, including revenues and expenditures for public elementary and secondary education:
 <br />
 https://nces.ed.gov/ccd/elsi/
