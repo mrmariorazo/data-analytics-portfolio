@@ -19,3 +19,7 @@ http://data.edbuild.org/
 Stanford Education Data Archive (SEDA) SEDA provides a variety of datasets on educational opportunity and achievement, including school-level measures of socioeconomic status and academic performance:
 <br />
 https://edopportunity.org/get-the-data/seda-archive-downloads/
+
+National Bureau of Economic Research (NBER) offers various datasets related to education and economics, including the School District Finance Database, which contains information on school district finances, enrollment, and staffing:
+<br />
+https://www.nber.org/research/data/school-district-databook-sddb
